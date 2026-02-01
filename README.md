@@ -11,3 +11,7 @@ _"accuracy_score"_ (This is used to check whether the accuracy of the model is c
 
 *NOTE*:- All Available A.I Tools were used during this Project's Building With also the help of a Guide appointed by the Department of A.I & M.L.
 <img width="1917" height="963" alt="Screenshot 2025-12-15 104219" src="https://github.com/user-attachments/assets/eef537ad-8ddf-4ec9-8992-c89ff0b75bae" />
+
+Points to keep in Mind:-
+-> This gives an accuraccy performance of "1.00" because the model has been trained on An Pre-Existing/Pre- Defined Dataset from Kaggle.
+-> When these kind of Pre-Defined Datasets are used the model takes random values and it does not have any error because the data has already been cleaned.
