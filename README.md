@@ -10,3 +10,4 @@ _"train_test_split"_ (Splits the available data set into Training and Testing se
 _"accuracy_score"_ (This is used to check whether the accuracy of the model is correct and improvements that need to be made on the model if the accuracy is less)
 
 *NOTE*:- All Available A.I Tools were used during this Project's Building With also the help of a Guide appointed by the Department of A.I & M.L.
+<img width="1917" height="963" alt="Screenshot 2025-12-15 104219" src="https://github.com/user-attachments/assets/eef537ad-8ddf-4ec9-8992-c89ff0b75bae" />
